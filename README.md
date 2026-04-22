@@ -14,6 +14,14 @@
 - [Future Work](#future-work)
 
 ## Introduction
+This project explores the relationship between daily screen time and mental wellness using real-world behavioral data.
+The analysis examines how screen exposure influences:
+- sleep quality
+- stress
+- productivity
+- exercise
+- social life
+- overall mental wellness
 
 
 
