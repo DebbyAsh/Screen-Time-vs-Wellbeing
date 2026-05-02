@@ -33,7 +33,7 @@ More specifically, this work addresses three connected questions:
 **The predictive question:** Can a machine learning model accurately predict a person's mental wellness index (0–100) from these measurable factors well enough to be practically useful?
 
 ## Dataset
-The dataset comprises of 15 variables
+The dataset used is a file downloaded from kaggle (MentalHealth.csv). It comprises of 15 variables
 |Field                           | Description                                               |
 |--------------------------------|-----------------------------------------------------------|
 |1. user_id                      |   Participant                                             |
@@ -51,4 +51,5 @@ The dataset comprises of 15 variables
 |13. exercise_minutes_per_week   | Weekly exercise (minutes)                                 |
 |14. social_hours_per_week       | Face-to-face social time (hours)                          |
 |15. mental_wellness_index_0_100 | Target , composite wellness score                         |
+
 ## Methodology 
